@@ -1,23 +1,26 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  - project:
-    title: DevStudio
+    title: TheSmartLight
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Elearning Platform"
   - project:
-    title: Tempo
+    title: Property Management System
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "SaSS for Vacation Rental Management"
+
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: Yii2Micro
+    link: "https://github.com/vuquangthinh/yii2-micro"
+    tagline: "Bring micro style into Yii2 framework"
+
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Yii2AdminLTE
+    link: "https://github.com/vuquangthinh/yii2-adminlte"
+    tagline: "Intergrate AdminLTE Template into Yii2 framework"
+  
+  - project:
+    title: Yii2 SIO
+    link: "https://github.com/vuquangthinh/yii2-sio"
+    tagline: "Yii2 - EventEmitter Socket.IO implementation"
+  
