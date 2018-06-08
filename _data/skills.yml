@@ -1,18 +1,51 @@
 - skill:
-  name: Python & Django
+  name: Java
+  level: 70%
+
+- skill:
+  name: JavaScript, jQuery, F7
   level: 98%
+
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: React / React Native
+  level: 90%
+
 - skill:
-  name: Angular
-  level: 98%
+  name: Angular v1
+  level: 50%
+
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: HTML5 & CSS3
+  level: 80%
+
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: PHP
+  level: 80%
+
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Yii (v1 & v2)
+  level: 90%
+
+- skill:
+  name: Wordpress
+  level: 80%
+
+- skill:
+  name: DevOps Docker
+  level: 50%
+
+- skill:
+  name: Linux, Unix
+  level: 40%
+
+- skill:
+  name: MongoDB, Redis, MySQL, SQLServer, Firebase, Neo4J
+  level: 70%
+
+- skill:
+  name: Sketch, Photoshop, AI
+  level: 70%
+
+- skill:
+  name: MS Office
+  level: 90%
