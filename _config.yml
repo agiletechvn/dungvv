@@ -1,5 +1,5 @@
 # Site Settings
-title: Vu Quang Thinh
+title: "Vu Quang Thinh"
 description: "Vu Quang Thinh's Resume"
 url: 'http://agiletech.vn'
 baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
@@ -15,13 +15,10 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Vu Quang Thinh
-tagline: Full Stack Developer
-pic: quangthinh.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "I'm a fullstack developer of Agiletech Viet Nam. I love coding and solve hard problem. have more than 4 years of work
-experience in any positions. Side by side I love guitar and solving rubik.
-<br />
-You can view more about <a href="http://agiletech.vn" target="_blank">Agiletech Viet Nam</a>."
+name: 'Vu Quang Thinh'
+tagline: 'Full Stack Developer'
+pic: "quangthinh.jpg"
+summary: "I'm <time class='my-age' date='1994-04-04'>24</time> years old fullstack developer of Agiletech Viet Nam. I love coding and solve hard problem. have more than 4 years of work experience in dev / designer. Side by side I love guitar and solving rubik.<br />You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
 
 #sidebar links
 email: thinh@agiltech.vn
