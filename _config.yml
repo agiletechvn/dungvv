@@ -18,7 +18,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: 'Vu Quang Thinh'
 tagline: 'Full Stack Developer'
 pic: "quangthinh.jpg"
-summary: "I'm <time class='my-age' date='1994-04-04'>24</time> years old fullstack developer of Agiletech Viet Nam. I love coding and solve hard problem. have more than 4 years of work experience in dev / designer. Side by side I love guitar and solving rubik.<br />You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
+summary: "I'm <time class='my-age' date='1994-04-04'>24</time> year olds fullstack developer of Agiletech Viet Nam. I love coding and solve hard problem. have more than 4 years of work experience in dev / designer. Side by side I love guitar and solving rubik.<br />You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
 
 #sidebar links
 email: thinh@agiltech.vn
